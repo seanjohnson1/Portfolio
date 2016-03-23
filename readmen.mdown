@@ -1,0 +1,62 @@
+# Project 2
+_Build a Portfolio_
+## Below are the questions from P0, which I am using as a reflective tool and study aid.
+
+### How do I approach problems?
+
+1. I first identify all my **requirements** from the project rubric.
+    * Page at a minimum including at least 4 images, title text (h1-h6), regular text, and a logo
+    * No div tags with id or class
+    * Interpret page structure from DOM
+    * Use grid system for layout
+    * Use HTML 5 semantic tags
+    * Use framework for layout (bootstrap)
+    * Personalize design (adjusted fonts, colors, content, and general layout to my tastes)
+    * Add additional JavaScript functionality (popover)
+    * All content is responsive on Desktop, Tablet, and Mobile
+    * All content on all three devices (responsive not adaptive design)
+    * Include viewport meta tag
+    * Use framework classes for layout out page
+    * Include srcset for optimized images (note only the opener image warranted using srcset)
+    * No style tag or attributes in HTML
+    * Code is logically organized and includes comments on choices
+2. Next, I look and see if I understand all of the requirements.
+    * I investigated the bootstrap grid system
+    * I investigated HTML5 semantic tags
+    * I investigated the srcset attribute
+3. If I do not understand a requirement, I ask questions.
+    * I investigated code structure approached used by front-end developer at my workplace
+4. I create a **plan** for solving my problem.
+    * First, I created an outline of my content
+    * Second, I created an un-styled page with my content
+    * Third, I created an initial set of styles
+    * Fourth, I iteratively changed my styles
+    * Fifth, I created a JavaScript file
+    * Sixth, I validated my HTML and CSS
+    * Lastly, I wrote my readme file
+5. I study any new knowledge or skills required for the problem.
+    * [Bootstrap](http://getbootstrap.com)
+    * [srcset](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+    * [HTML5 elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+6. I start my plan.
+7. I adjust my plan as I am working through the problem.
+8. I test my **solution** to the problem.
+9. I document my solution and any new knowledge/skill.
+10. I deliver my solution for review
+
+### What skills do you have now that will help you tackle challenges?
+
+* Languages/Syntaxes
+    * HTML5
+    * CSS 3
+* Frameworks
+    * [jQuery](https://jquery.com/)
+    * [Bootstrap](http://getbootstrap.com)
+    * [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+
+### Questions
+
+* What are some advantages and disadvantages of other framework (not Bootstrap)?
+* How much of HTML5 semantic tags are currently utilized? Examples?
+* Why would one use srcset for serving selective images when the picture element appears to do the same thing and has an easier syntax?
+* What would be a good rule of thumb for requirements like "personalizes the design beyond the provided mockup" when determine how far I can go?
